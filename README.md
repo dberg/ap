@@ -9,7 +9,7 @@ Add the dependency to your project
 ```bash
 # Cargo.toml
 [dependencies]
-ap = { git = "ssh://git@github.com/dberg/ap.git" }
+ap = { git = "https://github.com/dberg/ap.git" }
 ```
 
 ## Usage
